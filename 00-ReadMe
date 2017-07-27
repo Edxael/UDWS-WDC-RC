@@ -1,1 +1,35 @@
-Here will be the repo 
+Repository for the content of the Utah Department of Work Services, Refugee Center.
+
+Introduction to Web Development Class
+
+The content will be transfer to a Teaching Management System that will be a website where students and teachers will be using to keep the class on track. 
+
+Currently, the site is located in:  http://class.mycode.website/
+
+---------------------------------------------
+The structure of the Courses:
+
+the whole program will last about 6 months and the program will be broken into 3 Courses:
+
+01- Web Design Intro. 16 weeks, 1 hr classes, 1 class per week.
+02- JavaScript Intro. 16 weeks, 1 hr classes, 1 class per week.
+03- WordPress Intro. 6 weeks 2 hrs class, 1 class per week.
+
+Each 1 hr class is called "Section" and is broken in small blocks example:
+
+     -- Section 3 - Strings --
+3.1 – String Definition & escape characters
+3.2 – Concatenation
+3.3 – String.length
+3.4 – String.includes(“a”);
+3.5 – Change case and More…
+3.6 – Coding Exercise
+3.7 – Homework
+3.8 – Quiz
+
+One section = to 1 hr in class this includes the teaching parts and the Codding Exercise, Homework and Quiz should be done at home. 
+
+--------------------------------------------------
+When developing the content for each Section see the schedule of topics, located in the directory: 00-Gral-Docs, in the file named: 
+
+Web-Dev Sequence of topics.ods
