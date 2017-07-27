@@ -1,0 +1,19 @@
+
+The conditional (ternary) operator is the only JavaScript operator that takes three operands. This operator is frequently used as a shortcut for the if statement.
+
+
+
+condition ? expr1 : expr2 ;
+
+
+Parameters
+
+condition (or conditions)
+An expression that evaluates to true or false.
+expr1, expr2
+Expressions with values of any type.
+
+
+
+DescriptionEDIT
+If condition is true, the operator returns the value of expr1; otherwise, it returns the value of expr2. For example, to display a different message based on the value of the isMember variable, you could use this statement:
